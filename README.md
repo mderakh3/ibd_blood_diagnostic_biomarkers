@@ -1,5 +1,10 @@
 # Machine Learning Based Diagnosis of Inflammatory Bowel Disease Using Liquid Biopsies
 
+R code for the study:
+
+> Nazari MHD, Ghorbaninejad M, Shahrokh S and Meyfour A (2025) Biomarker discovery for non-invasive diagnosis of
+> inflammatory bowel disease using blood transcriptomics. Front. Immunol. 16:1570374. doi: 10.3389/fimmu.2025.1570374
+
 __Table of Contents__
 
 1. Data Preprocessing
